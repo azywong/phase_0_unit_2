@@ -1,7 +1,7 @@
 # U2.W5: Build a simple guessing game SOLO CHALLENGE
 
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge [by myself].
 
 # 2. Pseudocode
 

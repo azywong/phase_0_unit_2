@@ -66,3 +66,32 @@ assert { card2.check_card == false }
 
 
 # 5. Reflection
+=begin
+What parts of your strategy worked? What problems did you face?
+I had to read up on assert and refresh myself on blocks before I could do this.  I'm still not completely sure about
+blocks and assert statements, but I understand them more than I did before.  As for my process and problems, I just
+Didn't totally understand what worked and had to play with the example in irb and other examples from the suggested
+reading.
+
+What questions did you have while coding? What resources did you find to help you answer them?
+I mainly relied on the suggested reading: http://www.tutorialspoint.com/ruby/ruby_blocks.htm
+I wasn't too confident about assert or blocks.
+
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+To be honest, I'm still having a bit of trouble wrapping my head around blocks and functions and assert statments.
+I kind of know how they work and how to use them, but I think maybe I could use more practice or reading before
+I'm really confident.
+
+Did you learn any new skills or tricks?
+Not really outside of the learning objectives
+
+How confident are you with each of the Learning Competencies?
+A bit shaky but I think I can do it.
+
+Which parts of the challenge did you enjoy?
+I enjoyed learning and figuring out how the code would work when I converted it.  The explanation of blocks was
+pretty clear so I enjoyed going through that as well.
+
+Which parts of the challenge did you find tedious?
+None!
+=end
